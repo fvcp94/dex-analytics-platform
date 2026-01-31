@@ -5,6 +5,10 @@ An **end‑to‑end Digital Employee Experience (DEX) analytics platform** that 
 
 This project is built as a **portfolio‑grade, enterprise‑style internal product**, inspired by real‑world DEX platforms used by large organizations.
 
+### Why I built this
+I built this project to demonstrate how DEX analytics can be approached as a product—not just dashboards—combining deterministic analytics with GenAI in a controlled, enterprise-safe way.
+
+
 > ⚠️ **Data disclaimer:** All data is **synthetic** and generated at runtime for demonstration purposes only. No real employee, endpoint, or enterprise data is used.
 
 ---
